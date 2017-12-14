@@ -1,0 +1,8 @@
+{
+  "name": "chat",
+  "description": "Node chat with socket and mongo",
+  "repository": "https://github.com/ykondrat/node_chat.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
